@@ -1,0 +1,53 @@
+.logop{
+   background-color: #e79099;
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.4);
+}
+.logop img{
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin-left: 30px;
+}
+.head{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 500px;
+}
+.project{
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+}
+.logop h2{
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+.project-list{
+    padding: 20px;
+    
+    justify-content: center;
+    gap: 40px;
+}
+.plist{
+    padding: 20px;
+    gap: 30px;
+    align-items: center;
+    width: 80%;
+}
+.plist a{
+    display: block; 
+    width: fit-content;
+    margin: 40px auto; 
+    padding: 10px 10px;
+    font-size: 16px;
+    background-color: #dc3545;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}

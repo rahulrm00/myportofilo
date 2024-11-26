@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Parthiban39/myportofilo.git/static/css/main.e67372ef.css",
+    "main.js": "/Parthiban39/myportofilo.git/static/js/main.7feb45bd.js",
+    "static/js/453.2ab0054f.chunk.js": "/Parthiban39/myportofilo.git/static/js/453.2ab0054f.chunk.js",
+    "static/media/Instagram (1).png": "/Parthiban39/myportofilo.git/static/media/Instagram (1).db2612bd586501d9ed3e.png",
+    "static/media/logo.jpg": "/Parthiban39/myportofilo.git/static/media/logo.8e423bb502fa55d43c5c.jpg",
+    "index.html": "/Parthiban39/myportofilo.git/index.html",
+    "main.e67372ef.css.map": "/Parthiban39/myportofilo.git/static/css/main.e67372ef.css.map",
+    "main.7feb45bd.js.map": "/Parthiban39/myportofilo.git/static/js/main.7feb45bd.js.map",
+    "453.2ab0054f.chunk.js.map": "/Parthiban39/myportofilo.git/static/js/453.2ab0054f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67372ef.css",
+    "static/js/main.7feb45bd.js"
+  ]
+}
